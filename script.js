@@ -1,6 +1,6 @@
 import fs from 'fs';
 import ollama from "ollama";
-async function askLLM(question) {
+async function query_LLM(question) {
     try {
         const response = await ollama.chat({
             model: "qwen2:0.5b",
@@ -21,6 +21,6 @@ fs.readFile("q.txt", "utf8", (err, data) => {
     if (err) {
         console.error("Error reading q.txt:", err.message);
     } else {
-        askLLM(data);
+        query_LLM(data);
     }
 });
