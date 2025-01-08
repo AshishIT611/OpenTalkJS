@@ -1,7 +1,6 @@
 import fs from 'fs';
 import ollama from "ollama";
-
-async function processChat() {
+async function replyChat(){
     try {
         const questionFile = "q.txt";
         const userMessage = fs.readFileSync(questionFile, "utf-8");
@@ -21,5 +20,4 @@ async function processChat() {
         console.error("Error encountered:", error.message);
     }
 }
-
-processChat();
+replyChat();
