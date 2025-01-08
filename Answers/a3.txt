@@ -1,0 +1,10 @@
+The color of the sun changes over time due to solar radiation and atmospheric conditions. The colors in the spectrum of sunlight are categorized into four basic types based on wavelength: red, orange, yellow, and blue.
+
+1. Red: This type of light comes from the Sun at wavelengths of 400-700 nanometers (nm). It is primarily composed of ultraviolet light.
+2. Orange: The yellow color in the spectrum comes from ultraviolet radiation. It reaches frequencies around 380 to 400 nm and consists mostly of blue light that travels through water, cloud droplets, and snow, as well as some short wavelengths of visible light (red or green).
+3. Yellowish-orange: This type of light comes from ultraviolet radiation at wavelengths around 250-700 nanometers. It is typically visible from space.
+4. Blue: The blue color in the spectrum comes primarily from ultraviolet radiation. It reaches frequencies around 400 to 700 nm and consists mostly of violet light (blue, cyan, magenta, and yellow). 
+
+The colors of the sun can change throughout the day based on solar activity such as solar flares or coronal mass ejections. For example, during a solar flare, the Sun's energy can be dissipated in space, resulting in shorter wavelengths and sometimes changing the color of the sun to red.
+
+In summary, the color of the sun varies over time due to solar radiation and atmospheric conditions. The different colors represent different frequencies of light that reach us from space or from clouds, and they are categorized by wavelength based on what type of light is being emitted or absorbed.
